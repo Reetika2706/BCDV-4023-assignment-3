@@ -1,7 +1,7 @@
 Student Name - Reetika
 Student Id - 101496084 
 
-Steps for run project 
+Steps 
 1 -  open ternminal in main Folder  run 'npm install' command
 2 - Change .env file ALCHEMY_API_KEY ,METAMASK_PRIVATE_KEY with your own Keys
 3 - Run command 'npx hardhat compile' to compile the smart contract
